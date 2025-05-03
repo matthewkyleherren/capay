@@ -319,7 +319,7 @@ const B = { class: "about-point__number" },
   se = { class: "about-page__right" },
   re = m(
     o({
-      __name: "the-facts",
+      __name: "the-project",
       setup(o) {
         const { t: p, locale: d } = h();
         T({ title: p("nav.theProject") }), $();

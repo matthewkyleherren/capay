@@ -1013,7 +1013,7 @@ const F = {
                     d,
                     {
                       color: "yellow",
-                      to: g(a)("/the-facts"),
+                      to: g(a)("/the-project"),
                       text: e.$t("homeAbout.verticalButton"),
                       class: "home-about__button",
                     },
@@ -2254,7 +2254,7 @@ const Fe = h({}, [
                   y,
                   {
                     color: "yellow",
-                    to: g(n)("/the-facts"),
+                    to: g(n)("/the-project"),
                     text: e.$t("homeAbout.verticalButton"),
                     class: "home__about-button",
                   },

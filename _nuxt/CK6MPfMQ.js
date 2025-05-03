@@ -28,7 +28,7 @@ const __vite__mapDeps = (
       "./ClEIJUB5.js",
       "./privacy-policy.BhWz8X6y.css",
       "./Z7QGQZiE.js",
-      "./the-facts.DrPKeAA3.css",
+      "./the-project.DrPKeAA3.css",
       "./BanM1Kzo.js",
       "./default.Dv_BQilw.css",
     ])
@@ -10557,7 +10557,7 @@ const kf = { page: "cookie-policy", navColor: "black", mixBlend: !1 },
   Sf = { page: "join", navMixBlend: !1, navColor: "white" },
   Af = { page: "privacy-policy", navColor: "black", mixBlend: !1 },
   Of = {
-    page: "the-facts",
+    page: "the-project",
     navMixBlend: !1,
     navColor: "black",
     color: "#FFD34F",
@@ -10696,8 +10696,8 @@ const kf = { page: "cookie-policy", navColor: "black", mixBlend: !1 },
         ),
     },
     {
-      name: "the-facts___en",
-      path: "/the-facts",
+      name: "the-project___en",
+      path: "/the-project",
       meta: Of,
       component: () =>
         Ju(
@@ -10707,7 +10707,7 @@ const kf = { page: "cookie-policy", navColor: "black", mixBlend: !1 },
         ),
     },
     {
-      name: "the-facts___es",
+      name: "the-project___es",
       path: "/es/el-proyecto",
       meta: Of,
       component: () =>
@@ -11778,7 +11778,7 @@ const Ch = xh({ id: "nav", state: () => ({ color: "white", mixBlend: !1 }) }),
             s = e.meta.page;
           if (
             ("impact-in-action" === s && "impact-in-action-detail" !== i) ||
-            "the-facts" === s
+            "the-project" === s
           ) {
             const t = e.meta.color,
               r = n.utils
@@ -11825,7 +11825,7 @@ const Ch = xh({ id: "nav", state: () => ({ color: "white", mixBlend: !1 }) }),
                 .reverse();
             if (
               ("impact-in-action" === i && "impact-in-action-detail" !== s) ||
-              "the-facts" === i
+              "the-project" === i
             ) {
               const e = ql().$ScrollTrigger;
               n.timeline({
