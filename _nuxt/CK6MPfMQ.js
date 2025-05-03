@@ -15525,14 +15525,14 @@ const Dv = {
     meta: {
       title: {
         t: 0,
-        b: { t: 2, i: [{ t: 3 }], s: "Capay. A transmedia Situation." },
+        b: { t: 2, i: [{ t: 3 }], s: "Regenerate the Capay Valley." },
       },
       description: {
         t: 0,
         b: {
           t: 2,
           i: [{ t: 3 }],
-          s: "Activist and filmmaker Amanda de Luis goes on a quest for hope in a society headed towards self-destruction.",
+          s: "We are the Capay Valley.",
         },
       },
     },
@@ -15580,7 +15580,7 @@ const Dv = {
         b: {
           t: 2,
           i: [{ t: 3 }],
-          s: "It's an invitation to reimagine the future and reconnect with our ability to transform it.",
+          s: "Groundwater sustainability plans (GSPs) detail the extent of groundwater overdraft in each basin, the local impacts of this overdraft, and strategies to achieve sustainability. In some southern Central Valley basins, the state has found that GSPs do not adequately address undesirable results of pumping; hearings are underway to determine whether basins will be put under probation, with State Water Board oversight.",
         },
       },
       verticalButton: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "The Facts" } },
@@ -15590,7 +15590,7 @@ const Dv = {
       b: {
         t: 2,
         i: [{ t: 3 }],
-        s: "Around the world, thousands of initiatives are quietly revolutionizing our predatory system, though— like an iceberg—they often remain hidden beneath the surface.",
+        s: "Here in the Capay Valley the real consequences of this groundwater crisis are being felt, but also addressed. Here are some of our initiatives.",
       },
     },
     homeProjects: {
@@ -15599,7 +15599,7 @@ const Dv = {
         b: {
           t: 2,
           i: [{ t: 3 }],
-          s: "Projects across the globe that challenge the status quo and reimagine what’s possible. From regenerative economy to sustainable technology and community-driven solutions, these initiatives reveal the power of collective action in building a resilient, sustainable future.",
+          s: "There is obviously no easy solution to this crisis, but also, neither is there is consensus as to how to mitigate it. Here in Capay, we have started following initiatives to try and overcome these issues.",
         },
       },
       verticalButton: {
@@ -15608,7 +15608,7 @@ const Dv = {
       },
     },
     homePodcast: {
-      sentence: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Echoes of Change." } },
+      sentence: { t: 0, b: { t: 2, i: [{ t: 3 }], s: "Planting the seeds of change." } },
       text: {
         t: 0,
         b: {
