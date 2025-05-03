@@ -15572,7 +15572,7 @@ const Dv = {
         b: {
           t: 2,
           i: [{ t: 3 }],
-          s: "Through film, podcasts, shared initiatives, and crowdfunding, Capay challenges the narrative of helplessness and reveals the global solutions already emerging beneath the surface.",
+          s: "Groundwater levels in many California basins, especially in the Central Valley, have been declining for decades, with rates of depletion accelerating in recent years. As groundwater is pumped, the land surface sinks due to the compaction of underlying soil, causing damage to infrastructure and altering the landscape. Thousands of wells have gone dry as groundwater levels decline, impacting communities and farmers.",
         },
       },
       text3: {
